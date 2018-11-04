@@ -11,7 +11,7 @@
 
 
 #define ELEC_RESET 10
-#define resetCount 3
+#define resetCount 600
 
 
 /* for feather32u4 
